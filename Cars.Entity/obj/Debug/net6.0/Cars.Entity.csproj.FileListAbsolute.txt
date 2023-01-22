@@ -1,0 +1,12 @@
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\bin\Debug\net6.0\Cars.Entity.deps.json
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\bin\Debug\net6.0\Cars.Entity.dll
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\bin\Debug\net6.0\Cars.Entity.pdb
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\obj\Debug\net6.0\Cars.Entity.csproj.AssemblyReference.cache
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\obj\Debug\net6.0\Cars.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\obj\Debug\net6.0\Cars.Entity.AssemblyInfoInputs.cache
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\obj\Debug\net6.0\Cars.Entity.AssemblyInfo.cs
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\obj\Debug\net6.0\Cars.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\obj\Debug\net6.0\Cars.Entity.dll
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\obj\Debug\net6.0\refint\Cars.Entity.dll
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\obj\Debug\net6.0\Cars.Entity.pdb
+C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Entity\obj\Debug\net6.0\ref\Cars.Entity.dll
