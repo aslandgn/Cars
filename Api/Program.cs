@@ -10,6 +10,7 @@ using Cars.Business.Interfaces;
 using Microsoft.Extensions.Configuration;
 using Serilog;
 using Cars.Business.Utils;
+using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -45,3 +46,6 @@ app.UseMiddleware<RequestMiddleware>();
 app.MapControllers();
 
 app.Run();
+
+//enver
+//uður
