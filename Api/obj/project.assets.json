@@ -2740,23 +2740,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dogancan ASLAN\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Sultan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Api\\Cars.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Api\\Cars.Api.csproj",
       "projectName": "Cars.Api",
-      "projectPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Api\\Cars.Api.csproj",
-      "packagesPath": "C:\\Users\\Dogancan ASLAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Api\\obj\\",
+      "projectPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Api\\Cars.Api.csproj",
+      "packagesPath": "C:\\Users\\Sultan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dogancan ASLAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sultan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2770,8 +2771,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Business\\Cars.Business.csproj": {
-              "projectPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Business\\Cars.Business.csproj"
+            "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Business\\Cars.Business.csproj": {
+              "projectPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Business\\Cars.Business.csproj"
             }
           }
         }
@@ -2834,7 +2835,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

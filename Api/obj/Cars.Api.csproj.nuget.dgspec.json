@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Api\\Cars.Api.csproj": {}
+    "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Api\\Cars.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Api\\Cars.Api.csproj": {
+    "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Api\\Cars.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Api\\Cars.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Api\\Cars.Api.csproj",
         "projectName": "Cars.Api",
-        "projectPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Api\\Cars.Api.csproj",
-        "packagesPath": "C:\\Users\\Dogancan ASLAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Api\\obj\\",
+        "projectPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Api\\Cars.Api.csproj",
+        "packagesPath": "C:\\Users\\Sultan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dogancan ASLAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sultan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Business\\Cars.Business.csproj": {
-                "projectPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Business\\Cars.Business.csproj"
+              "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Business\\Cars.Business.csproj": {
+                "projectPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Business\\Cars.Business.csproj"
               }
             }
           }
@@ -95,24 +96,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Business\\Cars.Business.csproj": {
+    "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Business\\Cars.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Business\\Cars.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Business\\Cars.Business.csproj",
         "projectName": "Cars.Business",
-        "projectPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Business\\Cars.Business.csproj",
-        "packagesPath": "C:\\Users\\Dogancan ASLAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Business\\obj\\",
+        "projectPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Business\\Cars.Business.csproj",
+        "packagesPath": "C:\\Users\\Sultan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dogancan ASLAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sultan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,8 +128,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Dal\\Cars.Dal.csproj": {
-                "projectPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Dal\\Cars.Dal.csproj"
+              "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Dal\\Cars.Dal.csproj": {
+                "projectPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Dal\\Cars.Dal.csproj"
               }
             }
           }
@@ -175,24 +177,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Core\\Cars.Core.csproj": {
+    "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Core\\Cars.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Core\\Cars.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Core\\Cars.Core.csproj",
         "projectName": "Cars.Core",
-        "projectPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Core\\Cars.Core.csproj",
-        "packagesPath": "C:\\Users\\Dogancan ASLAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Core\\obj\\",
+        "projectPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Core\\Cars.Core.csproj",
+        "packagesPath": "C:\\Users\\Sultan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dogancan ASLAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sultan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -239,24 +242,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Dal\\Cars.Dal.csproj": {
+    "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Dal\\Cars.Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Dal\\Cars.Dal.csproj",
+        "projectUniqueName": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Dal\\Cars.Dal.csproj",
         "projectName": "Cars.Dal",
-        "projectPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Dal\\Cars.Dal.csproj",
-        "packagesPath": "C:\\Users\\Dogancan ASLAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Dal\\obj\\",
+        "projectPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Dal\\Cars.Dal.csproj",
+        "packagesPath": "C:\\Users\\Sultan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Dal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dogancan ASLAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sultan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -270,11 +274,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Core\\Cars.Core.csproj": {
-                "projectPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Core\\Cars.Core.csproj"
+              "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Core\\Cars.Core.csproj": {
+                "projectPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Core\\Cars.Core.csproj"
               },
-              "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Entity\\Cars.Entity.csproj": {
-                "projectPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Entity\\Cars.Entity.csproj"
+              "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Entity\\Cars.Entity.csproj": {
+                "projectPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Entity\\Cars.Entity.csproj"
               }
             }
           }
@@ -314,24 +318,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Entity\\Cars.Entity.csproj": {
+    "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Entity\\Cars.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Entity\\Cars.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Entity\\Cars.Entity.csproj",
         "projectName": "Cars.Entity",
-        "projectPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Entity\\Cars.Entity.csproj",
-        "packagesPath": "C:\\Users\\Dogancan ASLAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dogancan ASLAN\\source\\repos\\Cars\\Cars.Entity\\obj\\",
+        "projectPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Entity\\Cars.Entity.csproj",
+        "packagesPath": "C:\\Users\\Sultan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sultan\\Source\\Repos\\Cars\\Cars.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dogancan ASLAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sultan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -372,7 +377,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -17,9 +17,6 @@
     <None Remove="DbScripts\20230122_InitialCreateScript.sql" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DbScripts\20230122_InitialCreateScript.sql" />
-  </ItemGroup>
-  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.8" />
   </ItemGroup>
@@ -40,6 +37,9 @@
       <HintPath>$(SSDTUnitTestPath)\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll</HintPath>
       <Private>True</Private>
     </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DbScripts\" />
   </ItemGroup>
   <PropertyGroup>
     <SsdtUnitTestVersion>3.1</SsdtUnitTestVersion>

@@ -15,3 +15,25 @@ C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Dal\obj\Debug\net6.0\Cars.Dal.dll
 C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Dal\obj\Debug\net6.0\refint\Cars.Dal.dll
 C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Dal\obj\Debug\net6.0\Cars.Dal.pdb
 C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Dal\obj\Debug\net6.0\ref\Cars.Dal.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\obj\Debug\net6.0\Cars.Dal.csproj.AssemblyReference.cache
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\obj\Debug\net6.0\Cars.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\obj\Debug\net6.0\Cars.Dal.AssemblyInfoInputs.cache
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\obj\Debug\net6.0\Cars.Dal.AssemblyInfo.cs
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\obj\Debug\net6.0\Cars.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\obj\Debug\net6.0\Cars.Dal.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\obj\Debug\net6.0\refint\Cars.Dal.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\obj\Debug\net6.0\Cars.Dal.pdb
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Cars.Dal.deps.json
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Cars.Dal.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Cars.Dal.pdb
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Cars.Core.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Cars.Entity.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Cars.Core.pdb
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\bin\Debug\net6.0\Cars.Entity.pdb
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\obj\Debug\net6.0\Cars.Dal.csproj.CopyComplete
+C:\Users\Sultan\Source\Repos\Cars\Cars.Dal\obj\Debug\net6.0\ref\Cars.Dal.dll

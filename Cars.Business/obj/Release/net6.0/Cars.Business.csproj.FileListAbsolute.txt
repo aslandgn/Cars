@@ -17,3 +17,22 @@ C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Business\obj\Release\net6.0\Cars.
 C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Business\obj\Release\net6.0\refint\Cars.Business.dll
 C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Business\obj\Release\net6.0\Cars.Business.pdb
 C:\Users\Dogancan ASLAN\source\repos\Cars\Cars.Business\obj\Release\net6.0\ref\Cars.Business.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\bin\Release\net6.0\Cars.Business.deps.json
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\bin\Release\net6.0\Cars.Business.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\bin\Release\net6.0\Cars.Business.pdb
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\bin\Release\net6.0\Cars.Core.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\bin\Release\net6.0\Cars.Dal.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\bin\Release\net6.0\Cars.Entity.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\bin\Release\net6.0\Cars.Dal.pdb
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\bin\Release\net6.0\Cars.Core.pdb
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\bin\Release\net6.0\Cars.Entity.pdb
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\obj\Release\net6.0\Cars.Business.csproj.AssemblyReference.cache
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\obj\Release\net6.0\Cars.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\obj\Release\net6.0\Cars.Business.AssemblyInfoInputs.cache
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\obj\Release\net6.0\Cars.Business.AssemblyInfo.cs
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\obj\Release\net6.0\Cars.Business.csproj.CoreCompileInputs.cache
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\obj\Release\net6.0\Cars.Business.csproj.CopyComplete
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\obj\Release\net6.0\Cars.Business.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\obj\Release\net6.0\refint\Cars.Business.dll
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\obj\Release\net6.0\Cars.Business.pdb
+C:\Users\Sultan\Source\Repos\Cars\Cars.Business\obj\Release\net6.0\ref\Cars.Business.dll

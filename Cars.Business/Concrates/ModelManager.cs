@@ -48,7 +48,7 @@ namespace Cars.Business.Concrates
                 return ServiceResponse<List<ModelDto>>.BadRequest("Marka bilgisi boş olamaz");
             }
 
-            var models = await _modelDalService.GetListByFilterAsync(x => x.BrandId == brandId && x.IsActive && !x.IsDeleted);
+            var models = await _modelDalService.GetListByFilterAsync(x => x.BrandId == brandId && x.IsActive == true && x.IsDeleted == false);
             var modelDtos = _mapper.Map<List<ModelDto>>(models);
             return ServiceResponse<List<ModelDto>>.Ok(modelDtos);
         }
